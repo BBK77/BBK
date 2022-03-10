@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Babakrishna
-- 👀 I’m interested in ...Frontend development,AWS,Data science
+- 👀 I’m interested in ...Full stack development,AWS,Data science
 - 🌱 I’m currently learning ...Digital Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

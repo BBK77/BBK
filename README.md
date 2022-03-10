@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Babakrishna
+- 👋 Hi, I’m @BBK
 - 👀 I’m interested in ...Full stack development,AWS,Data science
 - 🌱 I’m currently learning ...Digital Analytics
 - 💞️ I’m looking to collaborate on ...
